@@ -10,10 +10,12 @@ The purpose of the project was to modify and extend the code to address all spec
 
 ## Design Choices and Functionality
 
-Used Gherkin Syntax in the commments and conditional statements to account for all user stories.
+Used Gherkin Syntax in the comments and conditional statements to account for all user stories.
 
 ## Technologies Used
 
 \*Javascript for functionality.
 
 ## Loom Video Link
+
+https://www.loom.com/share/1fca67f38d66442abe798227d2c5dbe0?sid=4709a7ef-1a22-4d35-b2cf-b3c87f1e3993
